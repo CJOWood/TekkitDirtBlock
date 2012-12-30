@@ -1,0 +1,5 @@
+main: org.chriswood.plugin.TekkitDirtBlock.TekkitDirtBlock
+name: DirtBlock
+version: 1.20
+author: Chris Wood
+description: A simple, lightweight plugin that collects data and returns it to our servers where you can view its statistics.

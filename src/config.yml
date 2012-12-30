@@ -1,0 +1,18 @@
+host: 0.0.0.0
+port: 22565
+check-query: true #false to ignore reminder to setup server.properties file...
+
+#Select what you want to send to CraftStats...
+BlockBreak: true
+BlockPlace: true
+Kills: true
+Deaths: true
+BowShots: true
+CraftedItems: true
+BrokenItems: true
+XPGained: true
+PlayerDamage: true
+PlayerMove: true
+
+#Would you like to participate in BETA feature testing? (Set 'true' if you do)
+BETA: false
